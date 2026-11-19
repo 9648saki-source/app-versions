@@ -14,5 +14,9 @@
  "appbetsu-note": {
   "build": 13,
   "version": "1.0.13"
+ },
+ "tametoku-memo": {
+  "build": 39,
+  "version": "1.0.39"
  }
 }
