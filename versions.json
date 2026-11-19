@@ -6,5 +6,9 @@
  "kirinuki-widget": {
   "build": 37,
   "version": "1.0.37"
+ },
+ "gamen-memo": {
+  "build": 56,
+  "version": "1.0.56"
  }
 }
