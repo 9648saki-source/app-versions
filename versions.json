@@ -26,5 +26,9 @@
  "narabe-memo": {
   "build": 32,
   "version": "4.1"
+ },
+ "blocker-mark": {
+  "build": 3,
+  "version": "1.0.3"
  }
 }
