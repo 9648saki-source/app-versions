@@ -18,5 +18,9 @@
  "tametoku-memo": {
   "build": 39,
   "version": "1.0.39"
+ },
+ "adguard-link": {
+  "build": 59,
+  "version": "1.0.59"
  }
 }
