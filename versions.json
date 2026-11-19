@@ -10,5 +10,9 @@
  "gamen-memo": {
   "build": 56,
   "version": "1.0.56"
+ },
+ "appbetsu-note": {
+  "build": 13,
+  "version": "1.0.13"
  }
 }
