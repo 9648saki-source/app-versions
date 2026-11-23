@@ -28,8 +28,8 @@
   "version": "38"
  },
  "blocker-mark": {
-  "build": 60,
-  "version": "1.0.60"
+  "build": 63,
+  "version": "1.0.63"
  },
  "tsuchi-memo": {
   "build": 5,
