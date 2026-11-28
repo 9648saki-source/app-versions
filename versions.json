@@ -1,45 +1,45 @@
 {
- "yotei-form": {
-  "build": 70,
-  "version": "1.0.70"
- },
- "kirinuki-widget": {
-  "build": 47,
-  "version": "1.0.47"
- },
- "gamen-memo": {
-  "build": 74,
-  "version": "74"
- },
- "appbetsu-note": {
-  "build": 19,
-  "version": "1.0.19"
- },
- "tametoku-memo": {
-  "build": 43,
-  "version": "1.0.43"
- },
- "adguard-link": {
-  "build": 100,
-  "version": "1.0.100"
- },
- "narabe-memo": {
-  "build": 39,
-  "version": "39"
- },
- "blocker-mark": {
-  "build": 74,
-  "version": "74"
- },
- "tsuchi-memo": {
-  "build": 5,
-  "version": "5"
- },
- "sousa-assist": {
-  "build": 23,
-  "version": "23"
- },
- "tsuchi-modoshi": {
-  "build": 2
- }
+  "yotei-form": {
+    "build": 70,
+    "version": "1.0.70"
+  },
+  "kirinuki-widget": {
+    "build": 47,
+    "version": "1.0.47"
+  },
+  "gamen-memo": {
+    "build": 74,
+    "version": "74"
+  },
+  "appbetsu-note": {
+    "build": 19,
+    "version": "1.0.19"
+  },
+  "tametoku-memo": {
+    "build": 43,
+    "version": "1.0.43"
+  },
+  "adguard-link": {
+    "build": 100,
+    "version": "1.0.100"
+  },
+  "narabe-memo": {
+    "build": 39,
+    "version": "39"
+  },
+  "blocker-mark": {
+    "build": 74,
+    "version": "74"
+  },
+  "tsuchi-memo": {
+    "build": 5,
+    "version": "5"
+  },
+  "sousa-assist": {
+    "build": 24,
+    "version": "24"
+  },
+  "tsuchi-modoshi": {
+    "build": 2
+  }
 }
